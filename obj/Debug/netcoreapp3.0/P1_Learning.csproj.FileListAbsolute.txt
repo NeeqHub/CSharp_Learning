@@ -1,0 +1,11 @@
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.exe
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.deps.json
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.runtimeconfig.json
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.runtimeconfig.dev.json
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.dll
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\bin\Debug\netcoreapp3.0\P1_Learning.pdb
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\obj\Debug\netcoreapp3.0\P1_Learning.csprojAssemblyReference.cache
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\obj\Debug\netcoreapp3.0\P1_Learning.AssemblyInfoInputs.cache
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\obj\Debug\netcoreapp3.0\P1_Learning.AssemblyInfo.cs
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\obj\Debug\netcoreapp3.0\P1_Learning.dll
+C:\Users\N3eQ\Desktop\Programming\P1_Learning\obj\Debug\netcoreapp3.0\P1_Learning.pdb
